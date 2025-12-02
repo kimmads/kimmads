@@ -30,9 +30,7 @@
 **Agri Projects**  
 - **Agri-Marketplace Web App** — full-stack platform connecting farmers and buyers.  
 - **Rice Classification Application** — classify rice type/quality to help farmers & distributors make better decisions.  
-
-**Creative Side**  
-- **Audio Cover Songs Repo** — where I publish my music covers & audio experiments.  
+- **Resource Person Information Management System** — Information Management System for RP(Resource Person) in Agricultural Training Institution.
 
 ---
 
@@ -48,7 +46,7 @@
 
 - Building modular, maintainable codebases that focus on usability and impact.  
 - Designing UI/UX with real-world users (farmers, buyers) in mind — not just code for code’s sake.  
-- Maintaining balance: shifting between coding and creative music projects keeps my perspective fresh.  
+
 
 ---
 
@@ -56,13 +54,13 @@
 
 - Collaboration on web apps (especially agriculture / social-impact oriented)  
 - UI/UX prototyping and design-driven projects  
-- Audio/music collaborations or creative dev-music crossovers  
+ 
 
 ---
 
 ## 📫 Connect With Me  
 - GitHub: [@kimmads](https://github.com/kimmads)  
-- Email: *youremail@example.com* (replace with your preferred contact)  
+- Email: *kimpepitocacheromadelo@gmail.com* (replace with your preferred contact)  
 - Portfolio / Website: *(if you have — insert link)*  
 
 > “Code. Create. Cultivate communities.” 🌾🚀
