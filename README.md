@@ -8,7 +8,7 @@
   <!-- <img src="https://your-image-link.com/banner.png" alt="banner" width="100%" /> -->
 
   <h1>👋 Hey there — I’m <strong>kimmads</strong></h1>
-  <p>Web Developer | Agri-Tech Advocate | Music Enthusiast 🎶</p>
+  <p>Web Developer | Agri-Tech Advocate </p>
 
   <!-- Social / Stats Badges -->
   [![GitHub followers](https://img.shields.io/github/followers/kimmads?style=social)](https://github.com/kimmads?tab=followers)
